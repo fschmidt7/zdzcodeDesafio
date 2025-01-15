@@ -7,7 +7,7 @@ Project containing automated test scripts using [Playwright](https://playwright.
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/fschmidt7/zdzcodeDesafio.git
 ```
 
 ### Install Dependencies
